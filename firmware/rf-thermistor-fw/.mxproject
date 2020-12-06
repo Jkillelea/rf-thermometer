@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=/home/ubuntu/stm32f411re-nucleo/rf-thermistor-fw/Inc
+HeaderPath=/home/ubuntu/rf-thermistor-fw/Inc
 HeaderFiles=stm32l0xx_it.h;stm32l0xx_hal_conf.h;main.h;gpio.h;adc.h;usart.h;
-SourcePath=/home/ubuntu/stm32f411re-nucleo/rf-thermistor-fw/Src
+SourcePath=/home/ubuntu/rf-thermistor-fw/Src
 SourceFiles=stm32l0xx_it.c;stm32l0xx_hal_msp.c;main.c;gpio.c;adc.c;usart.c;
 
 [PreviousLibFiles]
