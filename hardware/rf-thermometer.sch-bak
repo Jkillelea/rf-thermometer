@@ -112,8 +112,4 @@ Wire Wire Line
 	6300 3200 6200 3200
 Wire Wire Line
 	6300 3400 6200 3400
-Text GLabel 5200 4500 0    50   Input ~ 0
-ADC_IN9
-Wire Wire Line
-	5200 4500 5300 4500
 $EndSCHEMATC
