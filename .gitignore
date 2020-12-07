@@ -1,1 +1,2 @@
-./firmware/rf-thermistor-fw/build/
+firmware/rf-thermistor-fw/build
+firmware/rf-thermistor-fw/.clangd
